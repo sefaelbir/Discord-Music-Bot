@@ -4,7 +4,7 @@ You can listen to songs and podcasts with this simple discord bot.
 
 ## Features
 
-* [discordjs.guide](https://discordjs.guide/) Easy to learning and apply.
+* [discordjs.guide](https://discordjs.guide/) Easy to learning.
 * Pause/Resume control
 * Queue command
 * Skip command
